@@ -12,10 +12,11 @@
 
 ## mBot
 * introduktion til _Scratch_ og *robotter* generelt.
+	* evt. Hour of Code til nye
 * Line Follower
 * Fjernstyret robot
 * Selvkørende robot, der undgår vægge.
-	* evt. Hour of Code til nye
+	
 
 ## Blender
 * Lav et bordben
